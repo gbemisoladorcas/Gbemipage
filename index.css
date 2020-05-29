@@ -1,0 +1,68 @@
+
+.box{
+   font-size: larger;
+}
+body{
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: wheat;
+    overflow: hidden;
+}
+
+.container{
+    display: flex;
+    flex-direction: row-reverse;
+    border-radius: 200px;
+    padding-bottom: 40px;
+    padding-top: 40px;
+
+}
+.container1{
+    border: 3px solid black;
+    box-shadow: grey;
+    padding-bottom: 20px;
+    padding-left: 200px;
+    padding-top: 20px;
+    padding-right: 100px;
+    box-sizing: border-box 200px;
+    background-color: rosybrown;
+    border-radius: 200px;
+    
+}
+
+.container2{
+    border: 3px solid black;
+    box-shadow: grey;
+    padding-bottom: 20px;
+    padding-left: 200px;
+    padding-top: 150px;
+    padding-right: 100px;
+    box-sizing: border-box 200px;
+    background-color:rosybrown;
+    border-radius: 200px;
+}
+
+p{
+    font-size: larger;
+    padding-bottom: 100px;
+    padding-top: 20px;
+    font-family: 'Baloo Tamma 2', cursive;
+    font-weight: lighter;
+    font-style: italic;
+}
+header{
+    padding-top: 150px;
+    padding-bottom: 50px;
+    font-family: 'Baloo Tamma 2', cursive;
+}
+h1{
+    font-weight: lighter;
+}
+footer{
+    font-weight: lighter;
+    padding-bottom: 200px;
+    font-size: large;
+    font-family: 'Baloo Tamma 2', cursive;
+}
+
